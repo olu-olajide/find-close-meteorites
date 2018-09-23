@@ -9,5 +9,5 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "find_close_meteors.py"
+pipenv run "python meteors/find_close_meteors.py"
 ```
